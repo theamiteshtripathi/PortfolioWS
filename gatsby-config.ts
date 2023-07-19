@@ -27,9 +27,9 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Amitesh Tripathi - Data Engineer - Portfolio Website`,
+        short_name: `Amitesh Tripathi`,
+        description: `Portfolio website of Amitesh Tripathi, a Data Engineer.`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
